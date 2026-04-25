@@ -36,11 +36,13 @@ def build_attrs(
     eip1559_params: str,
     transactions: list[str] | None = None,
     no_tx_pool: bool = False,
+    min_base_fee: int = 1,
 ) -> dict:
     """Construct OP-stack PayloadAttributes for engine_forkchoiceUpdatedV3.
 
     `transactions` are raw RLP-encoded txs as 0x-prefixed hex strings. When
     None, the EL is free to source from its tx pool (set noTxPool=False).
+    `min_base_fee` is required by the Jovian hardfork (8-byte u64).
     """
     next_ts = parent_timestamp + block_time
     attrs = {
@@ -53,6 +55,7 @@ def build_attrs(
         "noTxPool": no_tx_pool,
         "gasLimit": hex(gas_limit),
         "eip1559Params": eip1559_params,
+        "minBaseFee": min_base_fee,  # raw u64 (not hex-encoded — reth uses serde number)
     }
     if transactions is not None:
         attrs["transactions"] = transactions
