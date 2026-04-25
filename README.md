@@ -13,7 +13,7 @@ replay/
 │   ├── attrs.py         # OP PayloadAttributes builder (Holocene-aware)
 │   └── driver.py        # build → seal → insert → canonicalize loop
 ├── run_mock_cl.py       # `python3 run_mock_cl.py [max_blocks]`
-├── extract.py           # (TODO) raw tx extractor for blocks 46_000_001..
+├── extract.py           # raw tx extractor for blocks 46_000_001..
 └── data/                # gitignored — raw_txs/<n>.txt etc.
 ```
 
@@ -30,7 +30,25 @@ Every `BLOCK_TIME` seconds (default 2):
 
 Status: scaffolding. `transactions` is currently `None` and `noTxPool=False`,
 i.e. the EL fills payloads from its own pool. The replay path will switch to
-`noTxPool=True` + `transactions=[raw RLP, ...]` once the extractor lands.
+`noTxPool=True` + `transactions=[raw RLP, ...]` (loaded from `data/raw_txs/<n>.txt`).
+
+## Tx extractor
+
+```
+python3 extract.py [start] [end]    # defaults: 46000001 46001000
+```
+
+Pulls full blocks from `https://unichain-rpc.publicnode.com` (whitelists
+`eth_getRawTransactionByHash` and supports JSON-RPC batches; `mainnet.unichain.org`
+does not). Drops deposit txs (type `0x7e`) and any tx whose `from` matches
+`0xcaBBa9e7f4b3A885C5aa069f88469ac711Dd4aCC`. Writes one 0x-prefixed hex tx per
+line to `data/raw_txs/<n>.txt`. Resumable — skips blocks whose file already
+exists. ~140 blocks/s with the default 6-worker pool.
+
+For the default range 46_000_001..46_001_000: 8702 source txs → 841 survivors
+(595 blocks were fully filtered).
+
+Env knobs: `EXTRACT_RPC_URL`, `EXTRACT_WORKERS`, `EXTRACT_BATCH`.
 
 ## Reference
 
