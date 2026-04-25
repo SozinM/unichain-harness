@@ -17104,3 +17104,1409 @@
 2026-04-25 16:44:48,898 WARNING send_txs: block 46376885 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
 2026-04-25 16:44:48,913 WARNING send_txs: block 46376885 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
 2026-04-25 16:44:48,928 WARNING send_txs: block 46376886 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:48,940 WARNING send_txs: block 46376887 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:48,953 WARNING send_txs: block 46376887 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:48,967 WARNING send_txs: block 46376888 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:48,982 WARNING send_txs: block 46376888 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:48,997 WARNING send_txs: block 46376889 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,011 WARNING send_txs: block 46376889 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,026 WARNING send_txs: block 46376889 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,041 WARNING send_txs: block 46376889 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,057 WARNING send_txs: block 46376890 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,072 WARNING send_txs: block 46376890 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,088 WARNING send_txs: block 46376891 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,103 WARNING send_txs: block 46376891 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,118 WARNING send_txs: block 46376891 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,133 WARNING send_txs: block 46376892 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,148 WARNING send_txs: block 46376893 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,162 WARNING send_txs: block 46376893 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,177 WARNING send_txs: block 46376893 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,193 WARNING send_txs: block 46376894 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,208 WARNING send_txs: block 46376894 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,222 WARNING send_txs: block 46376894 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,237 WARNING send_txs: block 46376895 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,252 WARNING send_txs: block 46376895 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,280 WARNING send_txs: block 46376895 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,295 WARNING send_txs: block 46376896 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,310 WARNING send_txs: block 46376896 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,324 WARNING send_txs: block 46376896 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,340 WARNING send_txs: block 46376897 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,355 WARNING send_txs: block 46376897 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,370 WARNING send_txs: block 46376897 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,384 WARNING send_txs: block 46376897 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,400 WARNING send_txs: block 46376897 tx 4 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,415 WARNING send_txs: block 46376898 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,430 WARNING send_txs: block 46376898 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,445 WARNING send_txs: block 46376898 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,460 WARNING send_txs: block 46376898 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,475 WARNING send_txs: block 46376899 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,490 WARNING send_txs: block 46376899 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,506 WARNING send_txs: block 46376900 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,521 WARNING send_txs: block 46376900 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,536 WARNING send_txs: block 46376900 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,551 WARNING send_txs: block 46376900 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,566 WARNING send_txs: block 46376901 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,581 WARNING send_txs: block 46376901 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,596 WARNING send_txs: block 46376902 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,611 WARNING send_txs: block 46376902 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,626 WARNING send_txs: block 46376902 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,641 WARNING send_txs: block 46376903 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,657 WARNING send_txs: block 46376904 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,672 WARNING send_txs: block 46376904 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,687 WARNING send_txs: block 46376904 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,702 WARNING send_txs: block 46376904 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,717 WARNING send_txs: block 46376905 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,732 WARNING send_txs: block 46376905 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,747 WARNING send_txs: block 46376906 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,762 WARNING send_txs: block 46376906 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,777 WARNING send_txs: block 46376906 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,792 WARNING send_txs: block 46376906 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,808 WARNING send_txs: block 46376906 tx 4 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,823 WARNING send_txs: block 46376907 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,838 WARNING send_txs: block 46376907 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,852 WARNING send_txs: block 46376907 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,868 WARNING send_txs: block 46376907 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,883 WARNING send_txs: block 46376907 tx 4 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,898 WARNING send_txs: block 46376908 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,913 WARNING send_txs: block 46376908 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,927 WARNING send_txs: block 46376908 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,943 WARNING send_txs: block 46376909 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,957 WARNING send_txs: block 46376909 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,972 WARNING send_txs: block 46376910 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:49,987 WARNING send_txs: block 46376910 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,002 WARNING send_txs: block 46376910 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,018 WARNING send_txs: block 46376911 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,033 WARNING send_txs: block 46376911 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,048 WARNING send_txs: block 46376912 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,063 WARNING send_txs: block 46376912 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,078 WARNING send_txs: block 46376913 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,094 WARNING send_txs: block 46376913 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,109 WARNING send_txs: block 46376913 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,124 WARNING send_txs: block 46376914 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,140 WARNING send_txs: block 46376914 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,154 WARNING send_txs: block 46376914 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,169 WARNING send_txs: block 46376914 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,184 WARNING send_txs: block 46376914 tx 4 -> {'code': -32000, 'message': 'nonce too low: next nonce 12816, tx nonce 12813'}
+2026-04-25 16:44:50,199 WARNING send_txs: block 46376914 tx 5 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,213 WARNING send_txs: block 46376915 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 1832, tx nonce 1831'}
+2026-04-25 16:44:50,228 WARNING send_txs: block 46376915 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,243 WARNING send_txs: block 46376915 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,258 WARNING send_txs: block 46376916 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,273 WARNING send_txs: block 46376916 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,289 WARNING send_txs: block 46376917 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,304 WARNING send_txs: block 46376917 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,319 WARNING send_txs: block 46376917 tx 2 -> {'code': -32000, 'message': 'nonce too low: next nonce 305, tx nonce 304'}
+2026-04-25 16:44:50,334 WARNING send_txs: block 46376917 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,349 WARNING send_txs: block 46376918 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,364 WARNING send_txs: block 46376918 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,379 WARNING send_txs: block 46376918 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,394 WARNING send_txs: block 46376919 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,409 WARNING send_txs: block 46376919 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,425 WARNING send_txs: block 46376920 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,439 WARNING send_txs: block 46376920 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 89, tx nonce 88'}
+2026-04-25 16:44:50,454 WARNING send_txs: block 46376921 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,469 WARNING send_txs: block 46376921 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,484 WARNING send_txs: block 46376921 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,499 WARNING send_txs: block 46376922 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,515 WARNING send_txs: block 46376922 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,530 WARNING send_txs: block 46376922 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,545 WARNING send_txs: block 46376922 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,561 WARNING send_txs: block 46376923 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,576 WARNING send_txs: block 46376923 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,591 WARNING send_txs: block 46376923 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,606 WARNING send_txs: block 46376924 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,621 WARNING send_txs: block 46376924 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,636 WARNING send_txs: block 46376925 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,651 WARNING send_txs: block 46376926 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,666 WARNING send_txs: block 46376926 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,681 WARNING send_txs: block 46376927 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,696 WARNING send_txs: block 46376928 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,712 WARNING send_txs: block 46376928 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,727 WARNING send_txs: block 46376928 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,742 WARNING send_txs: block 46376929 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,757 WARNING send_txs: block 46376930 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,786 WARNING send_txs: block 46376930 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,801 WARNING send_txs: block 46376930 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,816 WARNING send_txs: block 46376931 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,831 WARNING send_txs: block 46376932 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,845 WARNING send_txs: block 46376932 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,860 WARNING send_txs: block 46376933 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,875 WARNING send_txs: block 46376933 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,890 WARNING send_txs: block 46376934 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,905 WARNING send_txs: block 46376934 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,921 WARNING send_txs: block 46376935 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,936 WARNING send_txs: block 46376935 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,950 WARNING send_txs: block 46376936 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,965 WARNING send_txs: block 46376937 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,980 WARNING send_txs: block 46376937 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:50,996 WARNING send_txs: block 46376938 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,011 WARNING send_txs: block 46376938 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,026 WARNING send_txs: block 46376938 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,041 WARNING send_txs: block 46376938 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,056 WARNING send_txs: block 46376939 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,071 WARNING send_txs: block 46376940 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,086 WARNING send_txs: block 46376940 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 654, tx nonce 653'}
+2026-04-25 16:44:51,115 WARNING send_txs: block 46376940 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,131 WARNING send_txs: block 46376941 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,146 WARNING send_txs: block 46376941 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,161 WARNING send_txs: block 46376941 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,176 WARNING send_txs: block 46376942 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,191 WARNING send_txs: block 46376942 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,206 WARNING send_txs: block 46376943 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 197, tx nonce 196'}
+2026-04-25 16:44:51,221 WARNING send_txs: block 46376943 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,237 WARNING send_txs: block 46376944 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,251 WARNING send_txs: block 46376944 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,267 WARNING send_txs: block 46376945 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,282 WARNING send_txs: block 46376945 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,297 WARNING send_txs: block 46376945 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,313 WARNING send_txs: block 46376946 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,327 WARNING send_txs: block 46376946 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,342 WARNING send_txs: block 46376946 tx 2 -> {'code': -32000, 'message': 'nonce too low: next nonce 86810, tx nonce 86809'}
+2026-04-25 16:44:51,357 WARNING send_txs: block 46376947 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,373 WARNING send_txs: block 46376948 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,388 WARNING send_txs: block 46376948 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,403 WARNING send_txs: block 46376948 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,418 WARNING send_txs: block 46376948 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,433 WARNING send_txs: block 46376949 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,448 WARNING send_txs: block 46376949 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,464 WARNING send_txs: block 46376950 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,479 WARNING send_txs: block 46376950 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,494 WARNING send_txs: block 46376950 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,509 WARNING send_txs: block 46376951 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,525 WARNING send_txs: block 46376952 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,540 WARNING send_txs: block 46376952 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,555 WARNING send_txs: block 46376952 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,570 WARNING send_txs: block 46376953 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,586 WARNING send_txs: block 46376954 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,601 WARNING send_txs: block 46376954 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,616 WARNING send_txs: block 46376955 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,631 WARNING send_txs: block 46376956 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,646 WARNING send_txs: block 46376957 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,661 WARNING send_txs: block 46376957 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,676 WARNING send_txs: block 46376957 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,692 WARNING send_txs: block 46376958 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,707 WARNING send_txs: block 46376958 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,722 WARNING send_txs: block 46376958 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,737 WARNING send_txs: block 46376958 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,767 WARNING send_txs: block 46376959 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,782 WARNING send_txs: block 46376959 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,797 WARNING send_txs: block 46376959 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,812 WARNING send_txs: block 46376959 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,827 WARNING send_txs: block 46376959 tx 4 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,842 WARNING send_txs: block 46376960 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,857 WARNING send_txs: block 46376960 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,873 WARNING send_txs: block 46376960 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,888 WARNING send_txs: block 46376960 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,903 WARNING send_txs: block 46376961 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,918 WARNING send_txs: block 46376961 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,933 WARNING send_txs: block 46376961 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,963 WARNING send_txs: block 46376961 tx 4 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,978 WARNING send_txs: block 46376962 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:51,993 WARNING send_txs: block 46376962 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,009 WARNING send_txs: block 46376963 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,024 WARNING send_txs: block 46376964 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,039 WARNING send_txs: block 46376964 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,054 WARNING send_txs: block 46376965 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,069 WARNING send_txs: block 46376965 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,084 WARNING send_txs: block 46376965 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,099 WARNING send_txs: block 46376966 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,115 WARNING send_txs: block 46376966 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,144 WARNING send_txs: block 46376967 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,160 WARNING send_txs: block 46376968 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,189 WARNING send_txs: block 46376968 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,204 WARNING send_txs: block 46376968 tx 3 -> {'code': -32000, 'message': 'nonce too low: next nonce 249899, tx nonce 249897'}
+2026-04-25 16:44:52,234 WARNING send_txs: block 46376968 tx 5 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,263 WARNING send_txs: block 46376968 tx 7 -> {'code': -32000, 'message': 'nonce too low: next nonce 88961, tx nonce 88956'}
+2026-04-25 16:44:52,278 WARNING send_txs: block 46376968 tx 8 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,294 WARNING send_txs: block 46376969 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,324 WARNING send_txs: block 46376969 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,339 WARNING send_txs: block 46376969 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,354 WARNING send_txs: block 46376970 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,369 WARNING send_txs: block 46376970 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,385 WARNING send_txs: block 46376971 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,400 WARNING send_txs: block 46376972 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,415 WARNING send_txs: block 46376972 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,444 WARNING send_txs: block 46376972 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,460 WARNING send_txs: block 46376973 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,475 WARNING send_txs: block 46376973 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,491 WARNING send_txs: block 46376974 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,506 WARNING send_txs: block 46376974 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,521 WARNING send_txs: block 46376974 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,537 WARNING send_txs: block 46376974 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,552 WARNING send_txs: block 46376975 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,567 WARNING send_txs: block 46376975 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,582 WARNING send_txs: block 46376975 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,598 WARNING send_txs: block 46376975 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,613 WARNING send_txs: block 46376976 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,629 WARNING send_txs: block 46376976 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,644 WARNING send_txs: block 46376976 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,659 WARNING send_txs: block 46376976 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,675 WARNING send_txs: block 46376977 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,690 WARNING send_txs: block 46376977 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,706 WARNING send_txs: block 46376977 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,720 WARNING send_txs: block 46376977 tx 3 -> {'code': -32000, 'message': 'nonce too low: next nonce 206, tx nonce 199'}
+2026-04-25 16:44:52,735 WARNING send_txs: block 46376977 tx 4 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,751 WARNING send_txs: block 46376978 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,766 WARNING send_txs: block 46376978 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,781 WARNING send_txs: block 46376978 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,795 WARNING send_txs: block 46376978 tx 3 -> {'code': -32000, 'message': 'nonce too low: next nonce 221, tx nonce 216'}
+2026-04-25 16:44:52,811 WARNING send_txs: block 46376979 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,826 WARNING send_txs: block 46376980 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,841 WARNING send_txs: block 46376980 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,857 WARNING send_txs: block 46376980 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,872 WARNING send_txs: block 46376981 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,887 WARNING send_txs: block 46376981 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,903 WARNING send_txs: block 46376981 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,918 WARNING send_txs: block 46376982 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,933 WARNING send_txs: block 46376982 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,949 WARNING send_txs: block 46376983 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,964 WARNING send_txs: block 46376983 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,979 WARNING send_txs: block 46376983 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:52,995 WARNING send_txs: block 46376984 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,010 WARNING send_txs: block 46376984 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,025 WARNING send_txs: block 46376985 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,040 WARNING send_txs: block 46376985 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,056 WARNING send_txs: block 46376986 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,072 WARNING send_txs: block 46376986 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,087 WARNING send_txs: block 46376986 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,106 WARNING send_txs: block 46376987 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,121 WARNING send_txs: block 46376987 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,137 WARNING send_txs: block 46376988 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,152 WARNING send_txs: block 46376988 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,167 WARNING send_txs: block 46376989 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,182 WARNING send_txs: block 46376989 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,198 WARNING send_txs: block 46376990 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,213 WARNING send_txs: block 46376990 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,228 WARNING send_txs: block 46376990 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,243 WARNING send_txs: block 46376990 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,259 WARNING send_txs: block 46376991 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,274 WARNING send_txs: block 46376992 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,289 WARNING send_txs: block 46376992 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,304 WARNING send_txs: block 46376992 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,320 WARNING send_txs: block 46376993 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,335 WARNING send_txs: block 46376993 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,350 WARNING send_txs: block 46376994 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,365 WARNING send_txs: block 46376994 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,380 WARNING send_txs: block 46376994 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,395 WARNING send_txs: block 46376995 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 355291, tx nonce 355290'}
+2026-04-25 16:44:53,410 WARNING send_txs: block 46376995 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,425 WARNING send_txs: block 46376995 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,440 WARNING send_txs: block 46376996 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,456 WARNING send_txs: block 46376996 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,471 WARNING send_txs: block 46376997 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,486 WARNING send_txs: block 46376997 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,501 WARNING send_txs: block 46376997 tx 2 -> {'code': -32000, 'message': 'nonce too low: next nonce 100398, tx nonce 100396'}
+2026-04-25 16:44:53,516 WARNING send_txs: block 46376998 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,532 WARNING send_txs: block 46376998 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,547 WARNING send_txs: block 46376999 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,562 WARNING send_txs: block 46376999 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,576 WARNING send_txs: block 46376999 tx 2 -> {'code': -32000, 'message': 'nonce too low: next nonce 241697, tx nonce 241694'}
+2026-04-25 16:44:53,591 WARNING send_txs: block 46376999 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,621 WARNING send_txs: block 46377000 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,636 WARNING send_txs: block 46377001 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,651 WARNING send_txs: block 46377001 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,667 WARNING send_txs: block 46377002 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,682 WARNING send_txs: block 46377002 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,697 WARNING send_txs: block 46377002 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,711 WARNING send_txs: block 46377002 tx 3 -> {'code': -32000, 'message': 'nonce too low: next nonce 11436, tx nonce 11434'}
+2026-04-25 16:44:53,727 WARNING send_txs: block 46377003 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,742 WARNING send_txs: block 46377003 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,757 WARNING send_txs: block 46377003 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,773 WARNING send_txs: block 46377004 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,788 WARNING send_txs: block 46377004 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,803 WARNING send_txs: block 46377004 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,818 WARNING send_txs: block 46377005 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,834 WARNING send_txs: block 46377005 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,849 WARNING send_txs: block 46377005 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,864 WARNING send_txs: block 46377006 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,880 WARNING send_txs: block 46377006 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,895 WARNING send_txs: block 46377007 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,910 WARNING send_txs: block 46377007 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,925 WARNING send_txs: block 46377007 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,941 WARNING send_txs: block 46377008 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,956 WARNING send_txs: block 46377008 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,971 WARNING send_txs: block 46377008 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:53,987 WARNING send_txs: block 46377009 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,016 WARNING send_txs: block 46377009 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,031 WARNING send_txs: block 46377010 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,046 WARNING send_txs: block 46377010 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 99, tx nonce 98'}
+2026-04-25 16:44:54,061 WARNING send_txs: block 46377010 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,076 WARNING send_txs: block 46377010 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,092 WARNING send_txs: block 46377011 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,107 WARNING send_txs: block 46377011 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,122 WARNING send_txs: block 46377011 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,137 WARNING send_txs: block 46377011 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,153 WARNING send_txs: block 46377012 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,168 WARNING send_txs: block 46377013 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,184 WARNING send_txs: block 46377013 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,199 WARNING send_txs: block 46377014 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,214 WARNING send_txs: block 46377014 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,229 WARNING send_txs: block 46377014 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,245 WARNING send_txs: block 46377015 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,260 WARNING send_txs: block 46377015 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,276 WARNING send_txs: block 46377015 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,291 WARNING send_txs: block 46377016 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,306 WARNING send_txs: block 46377016 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,322 WARNING send_txs: block 46377017 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,338 WARNING send_txs: block 46377017 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,353 WARNING send_txs: block 46377017 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,368 WARNING send_txs: block 46377018 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,384 WARNING send_txs: block 46377019 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,399 WARNING send_txs: block 46377019 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,415 WARNING send_txs: block 46377020 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,430 WARNING send_txs: block 46377020 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,445 WARNING send_txs: block 46377021 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,460 WARNING send_txs: block 46377021 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,475 WARNING send_txs: block 46377021 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,491 WARNING send_txs: block 46377022 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,506 WARNING send_txs: block 46377023 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,521 WARNING send_txs: block 46377023 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,537 WARNING send_txs: block 46377024 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,552 WARNING send_txs: block 46377024 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,567 WARNING send_txs: block 46377025 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,583 WARNING send_txs: block 46377026 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,598 WARNING send_txs: block 46377026 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,613 WARNING send_txs: block 46377026 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,629 WARNING send_txs: block 46377026 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,644 WARNING send_txs: block 46377027 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,660 WARNING send_txs: block 46377028 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,675 WARNING send_txs: block 46377028 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,690 WARNING send_txs: block 46377028 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,705 WARNING send_txs: block 46377028 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,720 WARNING send_txs: block 46377028 tx 4 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,736 WARNING send_txs: block 46377028 tx 5 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,751 WARNING send_txs: block 46377029 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,766 WARNING send_txs: block 46377029 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,796 WARNING send_txs: block 46377029 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,811 WARNING send_txs: block 46377029 tx 4 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,826 WARNING send_txs: block 46377030 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,842 WARNING send_txs: block 46377030 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,857 WARNING send_txs: block 46377030 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,872 WARNING send_txs: block 46377030 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,887 WARNING send_txs: block 46377031 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,917 WARNING send_txs: block 46377031 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,933 WARNING send_txs: block 46377032 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,948 WARNING send_txs: block 46377032 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,963 WARNING send_txs: block 46377032 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,978 WARNING send_txs: block 46377033 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:54,993 WARNING send_txs: block 46377033 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,009 WARNING send_txs: block 46377034 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,025 WARNING send_txs: block 46377034 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,040 WARNING send_txs: block 46377035 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,056 WARNING send_txs: block 46377035 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,071 WARNING send_txs: block 46377035 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,087 WARNING send_txs: block 46377036 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,101 WARNING send_txs: block 46377036 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 736, tx nonce 735'}
+2026-04-25 16:44:55,117 WARNING send_txs: block 46377036 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,132 WARNING send_txs: block 46377037 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,147 WARNING send_txs: block 46377037 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,163 WARNING send_txs: block 46377037 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,178 WARNING send_txs: block 46377038 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,193 WARNING send_txs: block 46377038 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,208 WARNING send_txs: block 46377038 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,224 WARNING send_txs: block 46377039 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,239 WARNING send_txs: block 46377039 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,254 WARNING send_txs: block 46377039 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,270 WARNING send_txs: block 46377039 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,285 WARNING send_txs: block 46377040 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,301 WARNING send_txs: block 46377040 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,317 WARNING send_txs: block 46377041 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,332 WARNING send_txs: block 46377041 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,347 WARNING send_txs: block 46377041 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,362 WARNING send_txs: block 46377042 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,378 WARNING send_txs: block 46377043 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,393 WARNING send_txs: block 46377043 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,422 WARNING send_txs: block 46377044 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,438 WARNING send_txs: block 46377044 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,453 WARNING send_txs: block 46377044 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,468 WARNING send_txs: block 46377045 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,483 WARNING send_txs: block 46377045 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,498 WARNING send_txs: block 46377045 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,514 WARNING send_txs: block 46377046 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,543 WARNING send_txs: block 46377046 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,558 WARNING send_txs: block 46377046 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,574 WARNING send_txs: block 46377047 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,588 WARNING send_txs: block 46377047 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 61, tx nonce 60'}
+2026-04-25 16:44:55,604 WARNING send_txs: block 46377048 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,619 WARNING send_txs: block 46377048 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,634 WARNING send_txs: block 46377049 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,649 WARNING send_txs: block 46377049 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,665 WARNING send_txs: block 46377050 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,680 WARNING send_txs: block 46377050 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,695 WARNING send_txs: block 46377050 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,710 WARNING send_txs: block 46377050 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,725 WARNING send_txs: block 46377050 tx 4 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,741 WARNING send_txs: block 46377051 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,756 WARNING send_txs: block 46377051 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,771 WARNING send_txs: block 46377051 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,786 WARNING send_txs: block 46377051 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,801 WARNING send_txs: block 46377051 tx 4 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,816 WARNING send_txs: block 46377051 tx 5 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,832 WARNING send_txs: block 46377052 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,847 WARNING send_txs: block 46377052 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,862 WARNING send_txs: block 46377053 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,877 WARNING send_txs: block 46377053 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,892 WARNING send_txs: block 46377053 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,908 WARNING send_txs: block 46377054 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,923 WARNING send_txs: block 46377054 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,938 WARNING send_txs: block 46377055 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,954 WARNING send_txs: block 46377056 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,969 WARNING send_txs: block 46377056 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,984 WARNING send_txs: block 46377057 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:55,999 WARNING send_txs: block 46377057 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,015 WARNING send_txs: block 46377058 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,030 WARNING send_txs: block 46377058 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,045 WARNING send_txs: block 46377058 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,060 WARNING send_txs: block 46377059 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,075 WARNING send_txs: block 46377059 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,090 WARNING send_txs: block 46377059 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,106 WARNING send_txs: block 46377060 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,121 WARNING send_txs: block 46377061 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,136 WARNING send_txs: block 46377061 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,151 WARNING send_txs: block 46377062 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,166 WARNING send_txs: block 46377062 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 10789, tx nonce 10788'}
+2026-04-25 16:44:56,181 WARNING send_txs: block 46377062 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,196 WARNING send_txs: block 46377063 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,211 WARNING send_txs: block 46377063 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,227 WARNING send_txs: block 46377064 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,242 WARNING send_txs: block 46377064 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,257 WARNING send_txs: block 46377064 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,272 WARNING send_txs: block 46377065 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,288 WARNING send_txs: block 46377066 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,303 WARNING send_txs: block 46377066 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,318 WARNING send_txs: block 46377067 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,333 WARNING send_txs: block 46377067 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,349 WARNING send_txs: block 46377068 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,364 WARNING send_txs: block 46377068 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,379 WARNING send_txs: block 46377069 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,395 WARNING send_txs: block 46377069 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,410 WARNING send_txs: block 46377069 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,425 WARNING send_txs: block 46377070 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,440 WARNING send_txs: block 46377070 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,456 WARNING send_txs: block 46377071 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,471 WARNING send_txs: block 46377071 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,486 WARNING send_txs: block 46377071 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,501 WARNING send_txs: block 46377072 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,516 WARNING send_txs: block 46377072 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,532 WARNING send_txs: block 46377073 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,547 WARNING send_txs: block 46377074 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,562 WARNING send_txs: block 46377074 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,577 WARNING send_txs: block 46377075 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 1224, tx nonce 1223'}
+2026-04-25 16:44:56,592 WARNING send_txs: block 46377075 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,607 WARNING send_txs: block 46377075 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,622 WARNING send_txs: block 46377075 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,638 WARNING send_txs: block 46377076 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,653 WARNING send_txs: block 46377076 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,668 WARNING send_txs: block 46377077 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,684 WARNING send_txs: block 46377077 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,699 WARNING send_txs: block 46377078 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,714 WARNING send_txs: block 46377078 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,729 WARNING send_txs: block 46377078 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,745 WARNING send_txs: block 46377079 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,760 WARNING send_txs: block 46377079 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,775 WARNING send_txs: block 46377079 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,790 WARNING send_txs: block 46377079 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,805 WARNING send_txs: block 46377080 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,821 WARNING send_txs: block 46377081 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,836 WARNING send_txs: block 46377081 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,851 WARNING send_txs: block 46377081 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,865 WARNING send_txs: block 46377081 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,880 WARNING send_txs: block 46377081 tx 4 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,894 WARNING send_txs: block 46377081 tx 5 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,909 WARNING send_txs: block 46377082 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,925 WARNING send_txs: block 46377082 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,940 WARNING send_txs: block 46377083 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,956 WARNING send_txs: block 46377084 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,971 WARNING send_txs: block 46377084 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:56,986 WARNING send_txs: block 46377085 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,001 WARNING send_txs: block 46377085 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,017 WARNING send_txs: block 46377086 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,032 WARNING send_txs: block 46377086 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,047 WARNING send_txs: block 46377087 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,062 WARNING send_txs: block 46377087 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,077 WARNING send_txs: block 46377087 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,092 WARNING send_txs: block 46377087 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,108 WARNING send_txs: block 46377088 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,123 WARNING send_txs: block 46377088 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,138 WARNING send_txs: block 46377088 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,154 WARNING send_txs: block 46377089 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,169 WARNING send_txs: block 46377089 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,184 WARNING send_txs: block 46377090 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,199 WARNING send_txs: block 46377091 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,215 WARNING send_txs: block 46377092 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,230 WARNING send_txs: block 46377092 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,260 WARNING send_txs: block 46377093 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,275 WARNING send_txs: block 46377093 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,290 WARNING send_txs: block 46377093 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,306 WARNING send_txs: block 46377093 tx 4 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,321 WARNING send_txs: block 46377094 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,336 WARNING send_txs: block 46377095 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,352 WARNING send_txs: block 46377095 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,367 WARNING send_txs: block 46377095 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,382 WARNING send_txs: block 46377096 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,397 WARNING send_txs: block 46377096 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,412 WARNING send_txs: block 46377096 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,428 WARNING send_txs: block 46377097 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,443 WARNING send_txs: block 46377097 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,458 WARNING send_txs: block 46377098 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,474 WARNING send_txs: block 46377099 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,489 WARNING send_txs: block 46377100 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,505 WARNING send_txs: block 46377100 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,534 WARNING send_txs: block 46377101 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,549 WARNING send_txs: block 46377101 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,565 WARNING send_txs: block 46377102 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,580 WARNING send_txs: block 46377102 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,595 WARNING send_txs: block 46377102 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,610 WARNING send_txs: block 46377103 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,625 WARNING send_txs: block 46377103 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,641 WARNING send_txs: block 46377103 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,656 WARNING send_txs: block 46377104 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,671 WARNING send_txs: block 46377105 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,687 WARNING send_txs: block 46377106 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,702 WARNING send_txs: block 46377106 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,717 WARNING send_txs: block 46377106 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,732 WARNING send_txs: block 46377107 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,747 WARNING send_txs: block 46377107 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,763 WARNING send_txs: block 46377108 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,778 WARNING send_txs: block 46377108 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,793 WARNING send_txs: block 46377108 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,808 WARNING send_txs: block 46377108 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,824 WARNING send_txs: block 46377109 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,839 WARNING send_txs: block 46377110 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,854 WARNING send_txs: block 46377110 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,869 WARNING send_txs: block 46377110 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,885 WARNING send_txs: block 46377111 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,900 WARNING send_txs: block 46377111 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,915 WARNING send_txs: block 46377111 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,930 WARNING send_txs: block 46377112 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,945 WARNING send_txs: block 46377112 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,960 WARNING send_txs: block 46377112 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,975 WARNING send_txs: block 46377112 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:57,990 WARNING send_txs: block 46377112 tx 4 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,005 WARNING send_txs: block 46377113 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 15, tx nonce 12'}
+2026-04-25 16:44:58,020 WARNING send_txs: block 46377113 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,035 WARNING send_txs: block 46377114 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,051 WARNING send_txs: block 46377115 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,066 WARNING send_txs: block 46377115 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,081 WARNING send_txs: block 46377116 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,096 WARNING send_txs: block 46377116 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,111 WARNING send_txs: block 46377117 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,127 WARNING send_txs: block 46377117 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,142 WARNING send_txs: block 46377118 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,157 WARNING send_txs: block 46377118 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,172 WARNING send_txs: block 46377119 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,188 WARNING send_txs: block 46377120 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,203 WARNING send_txs: block 46377121 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,218 WARNING send_txs: block 46377121 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,234 WARNING send_txs: block 46377122 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,249 WARNING send_txs: block 46377122 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,264 WARNING send_txs: block 46377122 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,279 WARNING send_txs: block 46377123 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,295 WARNING send_txs: block 46377124 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,310 WARNING send_txs: block 46377124 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,325 WARNING send_txs: block 46377125 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,340 WARNING send_txs: block 46377125 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,355 WARNING send_txs: block 46377125 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,371 WARNING send_txs: block 46377126 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,386 WARNING send_txs: block 46377127 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,401 WARNING send_txs: block 46377127 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,417 WARNING send_txs: block 46377128 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,432 WARNING send_txs: block 46377128 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,447 WARNING send_txs: block 46377128 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,462 WARNING send_txs: block 46377128 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,477 WARNING send_txs: block 46377129 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,492 WARNING send_txs: block 46377129 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,507 WARNING send_txs: block 46377129 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,523 WARNING send_txs: block 46377130 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,538 WARNING send_txs: block 46377130 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,553 WARNING send_txs: block 46377131 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,568 WARNING send_txs: block 46377131 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,583 WARNING send_txs: block 46377131 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,598 WARNING send_txs: block 46377131 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,614 WARNING send_txs: block 46377132 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,643 WARNING send_txs: block 46377133 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,658 WARNING send_txs: block 46377133 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,673 WARNING send_txs: block 46377134 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 5, tx nonce 4'}
+2026-04-25 16:44:58,688 WARNING send_txs: block 46377134 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,703 WARNING send_txs: block 46377134 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,718 WARNING send_txs: block 46377135 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,734 WARNING send_txs: block 46377135 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,749 WARNING send_txs: block 46377135 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,764 WARNING send_txs: block 46377135 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,779 WARNING send_txs: block 46377135 tx 4 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,794 WARNING send_txs: block 46377135 tx 5 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,809 WARNING send_txs: block 46377136 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,824 WARNING send_txs: block 46377136 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,839 WARNING send_txs: block 46377137 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,854 WARNING send_txs: block 46377137 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,869 WARNING send_txs: block 46377137 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,885 WARNING send_txs: block 46377138 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,900 WARNING send_txs: block 46377138 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,915 WARNING send_txs: block 46377138 tx 2 -> {'code': -32000, 'message': 'nonce too low: next nonce 679, tx nonce 678'}
+2026-04-25 16:44:58,930 WARNING send_txs: block 46377139 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,945 WARNING send_txs: block 46377140 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,960 WARNING send_txs: block 46377140 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,976 WARNING send_txs: block 46377141 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:58,991 WARNING send_txs: block 46377142 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,006 WARNING send_txs: block 46377142 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,021 WARNING send_txs: block 46377142 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,036 WARNING send_txs: block 46377143 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,051 WARNING send_txs: block 46377143 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,067 WARNING send_txs: block 46377144 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,081 WARNING send_txs: block 46377144 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 206, tx nonce 200'}
+2026-04-25 16:44:59,096 WARNING send_txs: block 46377145 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,111 WARNING send_txs: block 46377145 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,126 WARNING send_txs: block 46377145 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,142 WARNING send_txs: block 46377146 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,157 WARNING send_txs: block 46377146 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,171 WARNING send_txs: block 46377146 tx 2 -> {'code': -32000, 'message': 'nonce too low: next nonce 19178, tx nonce 19177'}
+2026-04-25 16:44:59,186 WARNING send_txs: block 46377146 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,202 WARNING send_txs: block 46377147 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,217 WARNING send_txs: block 46377147 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,232 WARNING send_txs: block 46377147 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,247 WARNING send_txs: block 46377148 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,262 WARNING send_txs: block 46377148 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,277 WARNING send_txs: block 46377149 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,292 WARNING send_txs: block 46377149 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,308 WARNING send_txs: block 46377151 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,323 WARNING send_txs: block 46377151 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,338 WARNING send_txs: block 46377152 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,354 WARNING send_txs: block 46377152 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,369 WARNING send_txs: block 46377153 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,384 WARNING send_txs: block 46377154 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,399 WARNING send_txs: block 46377154 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,414 WARNING send_txs: block 46377154 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,430 WARNING send_txs: block 46377155 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,445 WARNING send_txs: block 46377155 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,460 WARNING send_txs: block 46377155 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,475 WARNING send_txs: block 46377156 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,491 WARNING send_txs: block 46377156 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,520 WARNING send_txs: block 46377157 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,535 WARNING send_txs: block 46377157 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,551 WARNING send_txs: block 46377158 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,566 WARNING send_txs: block 46377158 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,581 WARNING send_txs: block 46377159 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,596 WARNING send_txs: block 46377159 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,611 WARNING send_txs: block 46377159 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,627 WARNING send_txs: block 46377160 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,642 WARNING send_txs: block 46377161 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,657 WARNING send_txs: block 46377161 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,672 WARNING send_txs: block 46377162 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,702 WARNING send_txs: block 46377163 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,717 WARNING send_txs: block 46377163 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,732 WARNING send_txs: block 46377163 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,748 WARNING send_txs: block 46377164 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,763 WARNING send_txs: block 46377164 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,777 WARNING send_txs: block 46377165 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 221, tx nonce 217'}
+2026-04-25 16:44:59,792 WARNING send_txs: block 46377165 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,807 WARNING send_txs: block 46377165 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,822 WARNING send_txs: block 46377165 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,838 WARNING send_txs: block 46377166 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,853 WARNING send_txs: block 46377166 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,868 WARNING send_txs: block 46377166 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,883 WARNING send_txs: block 46377167 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,899 WARNING send_txs: block 46377168 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,914 WARNING send_txs: block 46377168 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,929 WARNING send_txs: block 46377169 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,944 WARNING send_txs: block 46377169 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 17891, tx nonce 17890'}
+2026-04-25 16:44:59,959 WARNING send_txs: block 46377170 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,974 WARNING send_txs: block 46377170 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:44:59,990 WARNING send_txs: block 46377171 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,005 WARNING send_txs: block 46377172 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,020 WARNING send_txs: block 46377172 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,035 WARNING send_txs: block 46377172 tx 2 -> {'code': -32000, 'message': 'nonce too low: next nonce 23449, tx nonce 23448'}
+2026-04-25 16:45:00,050 WARNING send_txs: block 46377173 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,065 WARNING send_txs: block 46377173 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,080 WARNING send_txs: block 46377174 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,096 WARNING send_txs: block 46377174 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,111 WARNING send_txs: block 46377174 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,126 WARNING send_txs: block 46377174 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,141 WARNING send_txs: block 46377174 tx 4 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,156 WARNING send_txs: block 46377174 tx 5 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,171 WARNING send_txs: block 46377175 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,186 WARNING send_txs: block 46377175 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,201 WARNING send_txs: block 46377175 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,217 WARNING send_txs: block 46377176 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,232 WARNING send_txs: block 46377177 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,247 WARNING send_txs: block 46377177 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 464, tx nonce 463'}
+2026-04-25 16:45:00,262 WARNING send_txs: block 46377177 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,277 WARNING send_txs: block 46377177 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,292 WARNING send_txs: block 46377178 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,308 WARNING send_txs: block 46377179 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,323 WARNING send_txs: block 46377179 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,338 WARNING send_txs: block 46377180 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,354 WARNING send_txs: block 46377181 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,369 WARNING send_txs: block 46377181 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,384 WARNING send_txs: block 46377181 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,400 WARNING send_txs: block 46377182 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,415 WARNING send_txs: block 46377182 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,429 WARNING send_txs: block 46377182 tx 2 -> {'code': -32000, 'message': 'nonce too low: next nonce 100226, tx nonce 100223'}
+2026-04-25 16:45:00,444 WARNING send_txs: block 46377183 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 202033, tx nonce 202031'}
+2026-04-25 16:45:00,459 WARNING send_txs: block 46377183 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,473 WARNING send_txs: block 46377183 tx 2 -> {'code': -32000, 'message': 'nonce too low: next nonce 13, tx nonce 12'}
+2026-04-25 16:45:00,488 WARNING send_txs: block 46377183 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,503 WARNING send_txs: block 46377184 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,517 WARNING send_txs: block 46377185 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,533 WARNING send_txs: block 46377186 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,548 WARNING send_txs: block 46377187 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,563 WARNING send_txs: block 46377187 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,578 WARNING send_txs: block 46377187 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,594 WARNING send_txs: block 46377188 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,624 WARNING send_txs: block 46377188 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,639 WARNING send_txs: block 46377188 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,669 WARNING send_txs: block 46377189 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,684 WARNING send_txs: block 46377189 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,699 WARNING send_txs: block 46377189 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,714 WARNING send_txs: block 46377189 tx 4 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,729 WARNING send_txs: block 46377190 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,744 WARNING send_txs: block 46377190 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,759 WARNING send_txs: block 46377191 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,774 WARNING send_txs: block 46377192 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,789 WARNING send_txs: block 46377192 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,804 WARNING send_txs: block 46377192 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,819 WARNING send_txs: block 46377193 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,834 WARNING send_txs: block 46377193 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,849 WARNING send_txs: block 46377194 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,864 WARNING send_txs: block 46377194 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,880 WARNING send_txs: block 46377195 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,894 WARNING send_txs: block 46377195 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,908 WARNING send_txs: block 46377195 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,923 WARNING send_txs: block 46377196 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,938 WARNING send_txs: block 46377196 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,953 WARNING send_txs: block 46377197 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,968 WARNING send_txs: block 46377197 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,984 WARNING send_txs: block 46377198 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:00,999 WARNING send_txs: block 46377198 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,014 WARNING send_txs: block 46377199 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,029 WARNING send_txs: block 46377200 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,045 WARNING send_txs: block 46377200 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,060 WARNING send_txs: block 46377200 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,075 WARNING send_txs: block 46377201 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,090 WARNING send_txs: block 46377201 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,105 WARNING send_txs: block 46377201 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,121 WARNING send_txs: block 46377202 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,136 WARNING send_txs: block 46377203 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,152 WARNING send_txs: block 46377204 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,167 WARNING send_txs: block 46377205 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,182 WARNING send_txs: block 46377206 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,196 WARNING send_txs: block 46377206 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,226 WARNING send_txs: block 46377207 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,256 WARNING send_txs: block 46377208 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,271 WARNING send_txs: block 46377208 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,286 WARNING send_txs: block 46377208 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,301 WARNING send_txs: block 46377208 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,316 WARNING send_txs: block 46377209 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,331 WARNING send_txs: block 46377209 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,347 WARNING send_txs: block 46377210 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,362 WARNING send_txs: block 46377210 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,377 WARNING send_txs: block 46377211 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,392 WARNING send_txs: block 46377211 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,407 WARNING send_txs: block 46377212 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,423 WARNING send_txs: block 46377215 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,438 WARNING send_txs: block 46377215 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,453 WARNING send_txs: block 46377215 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,468 WARNING send_txs: block 46377215 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,483 WARNING send_txs: block 46377215 tx 4 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,498 WARNING send_txs: block 46377216 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 88961, tx nonce 88957'}
+2026-04-25 16:45:01,513 WARNING send_txs: block 46377216 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,528 WARNING send_txs: block 46377216 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,558 WARNING send_txs: block 46377216 tx 4 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,587 WARNING send_txs: block 46377217 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,602 WARNING send_txs: block 46377217 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,617 WARNING send_txs: block 46377217 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,647 WARNING send_txs: block 46377218 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,662 WARNING send_txs: block 46377218 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,677 WARNING send_txs: block 46377219 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,693 WARNING send_txs: block 46377219 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,708 WARNING send_txs: block 46377219 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,723 WARNING send_txs: block 46377219 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,738 WARNING send_txs: block 46377219 tx 4 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,753 WARNING send_txs: block 46377220 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,768 WARNING send_txs: block 46377220 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,783 WARNING send_txs: block 46377220 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,799 WARNING send_txs: block 46377221 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,814 WARNING send_txs: block 46377221 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,829 WARNING send_txs: block 46377221 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,844 WARNING send_txs: block 46377222 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,860 WARNING send_txs: block 46377222 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,875 WARNING send_txs: block 46377223 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,890 WARNING send_txs: block 46377223 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,906 WARNING send_txs: block 46377224 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,921 WARNING send_txs: block 46377224 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,936 WARNING send_txs: block 46377225 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,951 WARNING send_txs: block 46377226 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,968 WARNING send_txs: block 46377227 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:01,983 WARNING send_txs: block 46377228 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 215792, tx nonce 215790'}
+2026-04-25 16:45:01,998 WARNING send_txs: block 46377228 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,013 WARNING send_txs: block 46377229 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,029 WARNING send_txs: block 46377230 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,044 WARNING send_txs: block 46377230 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,074 WARNING send_txs: block 46377231 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,089 WARNING send_txs: block 46377232 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,104 WARNING send_txs: block 46377232 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,120 WARNING send_txs: block 46377233 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,135 WARNING send_txs: block 46377233 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,150 WARNING send_txs: block 46377234 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,165 WARNING send_txs: block 46377234 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,180 WARNING send_txs: block 46377234 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,196 WARNING send_txs: block 46377235 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,211 WARNING send_txs: block 46377235 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,226 WARNING send_txs: block 46377235 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,241 WARNING send_txs: block 46377235 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,257 WARNING send_txs: block 46377236 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,272 WARNING send_txs: block 46377236 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,287 WARNING send_txs: block 46377236 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,302 WARNING send_txs: block 46377236 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,317 WARNING send_txs: block 46377236 tx 4 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,332 WARNING send_txs: block 46377237 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,348 WARNING send_txs: block 46377237 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,363 WARNING send_txs: block 46377237 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,378 WARNING send_txs: block 46377237 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,394 WARNING send_txs: block 46377238 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,409 WARNING send_txs: block 46377239 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,424 WARNING send_txs: block 46377239 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,439 WARNING send_txs: block 46377239 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,455 WARNING send_txs: block 46377240 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,470 WARNING send_txs: block 46377241 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,485 WARNING send_txs: block 46377241 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,501 WARNING send_txs: block 46377242 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,515 WARNING send_txs: block 46377243 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 82, tx nonce 81'}
+2026-04-25 16:45:02,530 WARNING send_txs: block 46377243 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 14552, tx nonce 14551'}
+2026-04-25 16:45:02,545 WARNING send_txs: block 46377243 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,560 WARNING send_txs: block 46377243 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,575 WARNING send_txs: block 46377243 tx 4 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,591 WARNING send_txs: block 46377244 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,606 WARNING send_txs: block 46377244 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,621 WARNING send_txs: block 46377244 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,650 WARNING send_txs: block 46377244 tx 4 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,666 WARNING send_txs: block 46377245 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,681 WARNING send_txs: block 46377246 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,696 WARNING send_txs: block 46377246 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,711 WARNING send_txs: block 46377247 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,727 WARNING send_txs: block 46377247 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,742 WARNING send_txs: block 46377247 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,757 WARNING send_txs: block 46377247 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,772 WARNING send_txs: block 46377247 tx 4 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,789 WARNING send_txs: block 46377248 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,804 WARNING send_txs: block 46377248 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,819 WARNING send_txs: block 46377249 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,834 WARNING send_txs: block 46377249 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,849 WARNING send_txs: block 46377249 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,865 WARNING send_txs: block 46377249 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,880 WARNING send_txs: block 46377250 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,895 WARNING send_txs: block 46377251 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,910 WARNING send_txs: block 46377251 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,926 WARNING send_txs: block 46377252 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,941 WARNING send_txs: block 46377253 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,956 WARNING send_txs: block 46377253 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,972 WARNING send_txs: block 46377254 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:02,987 WARNING send_txs: block 46377254 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,002 WARNING send_txs: block 46377255 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,017 WARNING send_txs: block 46377255 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,033 WARNING send_txs: block 46377256 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,048 WARNING send_txs: block 46377256 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,063 WARNING send_txs: block 46377257 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,078 WARNING send_txs: block 46377257 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,094 WARNING send_txs: block 46377258 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,109 WARNING send_txs: block 46377259 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,124 WARNING send_txs: block 46377259 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,139 WARNING send_txs: block 46377259 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,155 WARNING send_txs: block 46377260 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,170 WARNING send_txs: block 46377261 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,185 WARNING send_txs: block 46377261 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,200 WARNING send_txs: block 46377261 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,230 WARNING send_txs: block 46377262 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,245 WARNING send_txs: block 46377263 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,260 WARNING send_txs: block 46377263 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,275 WARNING send_txs: block 46377264 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,291 WARNING send_txs: block 46377265 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,306 WARNING send_txs: block 46377265 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,321 WARNING send_txs: block 46377265 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,336 WARNING send_txs: block 46377266 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,352 WARNING send_txs: block 46377266 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,367 WARNING send_txs: block 46377267 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,382 WARNING send_txs: block 46377267 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,397 WARNING send_txs: block 46377267 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,426 WARNING send_txs: block 46377267 tx 4 -> {'code': -32000, 'message': 'nonce too low: next nonce 88961, tx nonce 88958'}
+2026-04-25 16:45:03,441 WARNING send_txs: block 46377267 tx 5 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,456 WARNING send_txs: block 46377268 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,471 WARNING send_txs: block 46377268 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,487 WARNING send_txs: block 46377268 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,516 WARNING send_txs: block 46377268 tx 4 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,531 WARNING send_txs: block 46377269 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,546 WARNING send_txs: block 46377269 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,561 WARNING send_txs: block 46377270 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,578 WARNING send_txs: block 46377271 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,593 WARNING send_txs: block 46377271 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,608 WARNING send_txs: block 46377272 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,623 WARNING send_txs: block 46377272 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,638 WARNING send_txs: block 46377272 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,654 WARNING send_txs: block 46377273 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,669 WARNING send_txs: block 46377274 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,684 WARNING send_txs: block 46377274 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,700 WARNING send_txs: block 46377275 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,715 WARNING send_txs: block 46377275 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,730 WARNING send_txs: block 46377276 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,745 WARNING send_txs: block 46377276 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,761 WARNING send_txs: block 46377277 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,776 WARNING send_txs: block 46377278 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,791 WARNING send_txs: block 46377279 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,807 WARNING send_txs: block 46377280 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,822 WARNING send_txs: block 46377281 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,837 WARNING send_txs: block 46377281 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,852 WARNING send_txs: block 46377282 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,868 WARNING send_txs: block 46377283 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,882 WARNING send_txs: block 46377283 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 2103, tx nonce 2102'}
+2026-04-25 16:45:03,897 WARNING send_txs: block 46377283 tx 2 -> {'code': -32000, 'message': 'nonce too low: next nonce 238925, tx nonce 238922'}
+2026-04-25 16:45:03,912 WARNING send_txs: block 46377284 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,927 WARNING send_txs: block 46377284 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,943 WARNING send_txs: block 46377285 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,958 WARNING send_txs: block 46377285 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:03,972 WARNING send_txs: block 46377285 tx 2 -> {'code': -32000, 'message': 'nonce too low: next nonce 1450, tx nonce 1449'}
+2026-04-25 16:45:03,987 WARNING send_txs: block 46377285 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,002 WARNING send_txs: block 46377286 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,018 WARNING send_txs: block 46377286 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,033 WARNING send_txs: block 46377287 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,047 WARNING send_txs: block 46377288 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 515, tx nonce 514'}
+2026-04-25 16:45:04,077 WARNING send_txs: block 46377288 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,092 WARNING send_txs: block 46377289 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,122 WARNING send_txs: block 46377289 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,151 WARNING send_txs: block 46377289 tx 4 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,166 WARNING send_txs: block 46377290 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,182 WARNING send_txs: block 46377291 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,198 WARNING send_txs: block 46377291 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,212 WARNING send_txs: block 46377292 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 71, tx nonce 70'}
+2026-04-25 16:45:04,227 WARNING send_txs: block 46377292 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,242 WARNING send_txs: block 46377293 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,258 WARNING send_txs: block 46377294 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,273 WARNING send_txs: block 46377295 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,288 WARNING send_txs: block 46377296 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,303 WARNING send_txs: block 46377296 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 221, tx nonce 218'}
+2026-04-25 16:45:04,318 WARNING send_txs: block 46377297 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,334 WARNING send_txs: block 46377298 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,349 WARNING send_txs: block 46377298 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,364 WARNING send_txs: block 46377299 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,379 WARNING send_txs: block 46377299 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,395 WARNING send_txs: block 46377300 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,410 WARNING send_txs: block 46377300 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,425 WARNING send_txs: block 46377301 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,439 WARNING send_txs: block 46377301 tx 1 -> {'code': -32003, 'message': 'insufficient funds for gas * price + value: have 996285278705275 want 9977384548985756'}
+2026-04-25 16:45:04,454 WARNING send_txs: block 46377301 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,470 WARNING send_txs: block 46377302 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,485 WARNING send_txs: block 46377302 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,500 WARNING send_txs: block 46377303 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,516 WARNING send_txs: block 46377304 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,531 WARNING send_txs: block 46377304 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,546 WARNING send_txs: block 46377304 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,561 WARNING send_txs: block 46377305 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,576 WARNING send_txs: block 46377306 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,591 WARNING send_txs: block 46377306 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,607 WARNING send_txs: block 46377306 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,622 WARNING send_txs: block 46377307 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,637 WARNING send_txs: block 46377307 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,652 WARNING send_txs: block 46377307 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,668 WARNING send_txs: block 46377308 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,683 WARNING send_txs: block 46377309 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,698 WARNING send_txs: block 46377309 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,713 WARNING send_txs: block 46377309 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,728 WARNING send_txs: block 46377309 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,743 WARNING send_txs: block 46377309 tx 4 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,759 WARNING send_txs: block 46377310 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,774 WARNING send_txs: block 46377310 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,789 WARNING send_txs: block 46377310 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,804 WARNING send_txs: block 46377310 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,819 WARNING send_txs: block 46377310 tx 4 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,834 WARNING send_txs: block 46377311 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,850 WARNING send_txs: block 46377311 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,865 WARNING send_txs: block 46377312 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,880 WARNING send_txs: block 46377312 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,894 WARNING send_txs: block 46377312 tx 2 -> {'code': -32000, 'message': 'nonce too low: next nonce 15, tx nonce 13'}
+2026-04-25 16:45:04,910 WARNING send_txs: block 46377313 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,925 WARNING send_txs: block 46377313 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,940 WARNING send_txs: block 46377313 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,955 WARNING send_txs: block 46377313 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,970 WARNING send_txs: block 46377313 tx 4 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:04,985 WARNING send_txs: block 46377314 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,001 WARNING send_txs: block 46377315 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,016 WARNING send_txs: block 46377315 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,031 WARNING send_txs: block 46377316 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,046 WARNING send_txs: block 46377316 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,062 WARNING send_txs: block 46377317 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,077 WARNING send_txs: block 46377317 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,092 WARNING send_txs: block 46377317 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,107 WARNING send_txs: block 46377318 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,122 WARNING send_txs: block 46377318 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,138 WARNING send_txs: block 46377318 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,153 WARNING send_txs: block 46377318 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,168 WARNING send_txs: block 46377319 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,183 WARNING send_txs: block 46377320 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,199 WARNING send_txs: block 46377321 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,214 WARNING send_txs: block 46377322 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,229 WARNING send_txs: block 46377323 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,245 WARNING send_txs: block 46377324 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,260 WARNING send_txs: block 46377324 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,275 WARNING send_txs: block 46377325 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,290 WARNING send_txs: block 46377325 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,305 WARNING send_txs: block 46377325 tx 2 -> {'code': -32000, 'message': 'nonce too low: next nonce 763, tx nonce 762'}
+2026-04-25 16:45:05,320 WARNING send_txs: block 46377326 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,335 WARNING send_txs: block 46377326 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,351 WARNING send_txs: block 46377326 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,366 WARNING send_txs: block 46377327 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,381 WARNING send_txs: block 46377327 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,396 WARNING send_txs: block 46377328 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,412 WARNING send_txs: block 46377329 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,427 WARNING send_txs: block 46377329 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,442 WARNING send_txs: block 46377330 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,458 WARNING send_txs: block 46377331 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,473 WARNING send_txs: block 46377332 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,488 WARNING send_txs: block 46377333 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,503 WARNING send_txs: block 46377333 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,519 WARNING send_txs: block 46377334 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,534 WARNING send_txs: block 46377334 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,549 WARNING send_txs: block 46377335 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,565 WARNING send_txs: block 46377336 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,580 WARNING send_txs: block 46377336 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,610 WARNING send_txs: block 46377337 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,625 WARNING send_txs: block 46377337 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,640 WARNING send_txs: block 46377338 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,655 WARNING send_txs: block 46377338 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,670 WARNING send_txs: block 46377339 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,686 WARNING send_txs: block 46377339 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,701 WARNING send_txs: block 46377339 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,716 WARNING send_txs: block 46377340 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,731 WARNING send_txs: block 46377340 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,746 WARNING send_txs: block 46377340 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,762 WARNING send_txs: block 46377341 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,777 WARNING send_txs: block 46377341 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,792 WARNING send_txs: block 46377342 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,822 WARNING send_txs: block 46377343 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,837 WARNING send_txs: block 46377344 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,853 WARNING send_txs: block 46377345 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,869 WARNING send_txs: block 46377346 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,884 WARNING send_txs: block 46377346 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,900 WARNING send_txs: block 46377347 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,915 WARNING send_txs: block 46377348 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,930 WARNING send_txs: block 46377348 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,945 WARNING send_txs: block 46377349 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,961 WARNING send_txs: block 46377349 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,976 WARNING send_txs: block 46377349 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:05,991 WARNING send_txs: block 46377350 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,006 WARNING send_txs: block 46377350 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,021 WARNING send_txs: block 46377351 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 1716, tx nonce 1712'}
+2026-04-25 16:45:06,036 WARNING send_txs: block 46377351 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,051 WARNING send_txs: block 46377352 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,066 WARNING send_txs: block 46377352 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,082 WARNING send_txs: block 46377352 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,097 WARNING send_txs: block 46377353 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,112 WARNING send_txs: block 46377353 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,128 WARNING send_txs: block 46377354 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,143 WARNING send_txs: block 46377354 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,158 WARNING send_txs: block 46377354 tx 2 -> {'code': -32000, 'message': 'nonce too low: next nonce 221, tx nonce 219'}
+2026-04-25 16:45:06,173 WARNING send_txs: block 46377354 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,188 WARNING send_txs: block 46377355 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,203 WARNING send_txs: block 46377355 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,219 WARNING send_txs: block 46377356 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,234 WARNING send_txs: block 46377357 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,249 WARNING send_txs: block 46377357 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,263 WARNING send_txs: block 46377357 tx 2 -> {'code': -32000, 'message': 'nonce too low: next nonce 1716, tx nonce 1713'}
+2026-04-25 16:45:06,279 WARNING send_txs: block 46377358 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,294 WARNING send_txs: block 46377358 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,309 WARNING send_txs: block 46377359 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,324 WARNING send_txs: block 46377359 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,339 WARNING send_txs: block 46377360 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,354 WARNING send_txs: block 46377360 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,370 WARNING send_txs: block 46377361 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,385 WARNING send_txs: block 46377361 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,400 WARNING send_txs: block 46377362 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,415 WARNING send_txs: block 46377362 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,430 WARNING send_txs: block 46377362 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,460 WARNING send_txs: block 46377363 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,475 WARNING send_txs: block 46377364 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,490 WARNING send_txs: block 46377364 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,505 WARNING send_txs: block 46377364 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,520 WARNING send_txs: block 46377364 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,535 WARNING send_txs: block 46377364 tx 4 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,551 WARNING send_txs: block 46377365 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,566 WARNING send_txs: block 46377365 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,581 WARNING send_txs: block 46377366 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,596 WARNING send_txs: block 46377367 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,611 WARNING send_txs: block 46377367 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,626 WARNING send_txs: block 46377367 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,642 WARNING send_txs: block 46377368 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,657 WARNING send_txs: block 46377369 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,672 WARNING send_txs: block 46377370 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,702 WARNING send_txs: block 46377371 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,717 WARNING send_txs: block 46377371 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,732 WARNING send_txs: block 46377372 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,748 WARNING send_txs: block 46377373 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,763 WARNING send_txs: block 46377373 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,777 WARNING send_txs: block 46377373 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,793 WARNING send_txs: block 46377374 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,808 WARNING send_txs: block 46377374 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,823 WARNING send_txs: block 46377375 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,838 WARNING send_txs: block 46377375 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,854 WARNING send_txs: block 46377376 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,868 WARNING send_txs: block 46377376 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,884 WARNING send_txs: block 46377377 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,899 WARNING send_txs: block 46377378 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,914 WARNING send_txs: block 46377378 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,929 WARNING send_txs: block 46377378 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,944 WARNING send_txs: block 46377379 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,959 WARNING send_txs: block 46377379 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,975 WARNING send_txs: block 46377380 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:06,990 WARNING send_txs: block 46377380 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,005 WARNING send_txs: block 46377381 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,020 WARNING send_txs: block 46377381 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,036 WARNING send_txs: block 46377382 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,051 WARNING send_txs: block 46377382 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,066 WARNING send_txs: block 46377382 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,082 WARNING send_txs: block 46377383 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,097 WARNING send_txs: block 46377383 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,113 WARNING send_txs: block 46377383 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,129 WARNING send_txs: block 46377384 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,144 WARNING send_txs: block 46377384 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,159 WARNING send_txs: block 46377384 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,174 WARNING send_txs: block 46377384 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,189 WARNING send_txs: block 46377384 tx 4 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,204 WARNING send_txs: block 46377384 tx 5 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,219 WARNING send_txs: block 46377385 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,235 WARNING send_txs: block 46377385 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,249 WARNING send_txs: block 46377386 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 221, tx nonce 220'}
+2026-04-25 16:45:07,265 WARNING send_txs: block 46377386 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,280 WARNING send_txs: block 46377386 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,295 WARNING send_txs: block 46377387 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,310 WARNING send_txs: block 46377387 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,326 WARNING send_txs: block 46377388 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,341 WARNING send_txs: block 46377388 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,370 WARNING send_txs: block 46377389 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,385 WARNING send_txs: block 46377389 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,401 WARNING send_txs: block 46377390 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,416 WARNING send_txs: block 46377390 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,431 WARNING send_txs: block 46377390 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,446 WARNING send_txs: block 46377391 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,461 WARNING send_txs: block 46377391 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,477 WARNING send_txs: block 46377392 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,492 WARNING send_txs: block 46377392 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,507 WARNING send_txs: block 46377392 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,522 WARNING send_txs: block 46377393 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,537 WARNING send_txs: block 46377393 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,553 WARNING send_txs: block 46377394 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,568 WARNING send_txs: block 46377395 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,584 WARNING send_txs: block 46377395 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,599 WARNING send_txs: block 46377396 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,614 WARNING send_txs: block 46377397 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 88961, tx nonce 88959'}
+2026-04-25 16:45:07,629 WARNING send_txs: block 46377397 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,644 WARNING send_txs: block 46377398 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,660 WARNING send_txs: block 46377401 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,674 WARNING send_txs: block 46377402 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 235099, tx nonce 235097'}
+2026-04-25 16:45:07,689 WARNING send_txs: block 46377405 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 261, tx nonce 259'}
+2026-04-25 16:45:07,732 WARNING send_txs: block 46377408 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 127669, tx nonce 127666'}
+2026-04-25 16:45:07,747 WARNING send_txs: block 46377408 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 102034, tx nonce 102031'}
+2026-04-25 16:45:07,804 WARNING send_txs: block 46377409 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 88961, tx nonce 88960'}
+2026-04-25 16:45:07,819 WARNING send_txs: block 46377412 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 3101, tx nonce 3097'}
+2026-04-25 16:45:07,833 WARNING send_txs: block 46377413 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 261, tx nonce 260'}
+2026-04-25 16:45:07,848 WARNING send_txs: block 46377417 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 3101, tx nonce 3098'}
+2026-04-25 16:45:07,877 WARNING send_txs: block 46377418 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 23318, tx nonce 23317'}
+2026-04-25 16:45:07,906 WARNING send_txs: block 46377418 tx 3 -> {'code': -32000, 'message': 'nonce too low: next nonce 147679, tx nonce 147677'}
+2026-04-25 16:45:07,964 WARNING send_txs: block 46377419 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,978 WARNING send_txs: block 46377419 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:07,993 WARNING send_txs: block 46377419 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:08,007 WARNING send_txs: block 46377419 tx 4 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:08,022 WARNING send_txs: block 46377419 tx 5 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:08,036 WARNING send_txs: block 46377419 tx 6 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:08,065 WARNING send_txs: block 46377419 tx 8 -> {'code': -32000, 'message': 'nonce too low: next nonce 171600, tx nonce 171599'}
+2026-04-25 16:45:08,094 WARNING send_txs: block 46377420 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 102034, tx nonce 102032'}
+2026-04-25 16:45:08,137 WARNING send_txs: block 46377420 tx 3 -> {'code': -32000, 'message': 'nonce too low: next nonce 147679, tx nonce 147678'}
+2026-04-25 16:45:08,181 WARNING send_txs: block 46377424 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 640, tx nonce 639'}
+2026-04-25 16:45:08,328 WARNING send_txs: block 46377463 tx 1 -> {'code': -32003, 'message': 'insufficient funds for gas * price + value: have 180821197982846 want 9222692055000000'}
+2026-04-25 16:45:08,343 WARNING send_txs: block 46377467 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 15, tx nonce 14'}
+2026-04-25 16:45:08,373 WARNING send_txs: block 46377483 tx 0 -> {'code': -32003, 'message': 'insufficient funds for gas * price + value: have 98172784210554 want 14811068785600000'}
+2026-04-25 16:45:08,388 WARNING send_txs: block 46377483 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 98936, tx nonce 98934'}
+2026-04-25 16:45:08,446 WARNING send_txs: block 46377501 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 98823, tx nonce 98821'}
+2026-04-25 16:45:08,461 WARNING send_txs: block 46377501 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 233512, tx nonce 233510'}
+2026-04-25 16:45:08,476 WARNING send_txs: block 46377503 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 615, tx nonce 612'}
+2026-04-25 16:45:08,490 WARNING send_txs: block 46377503 tx 1 -> {'code': -32003, 'message': 'insufficient funds for gas * price + value: have 479642136935283 want 9786432055000000'}
+2026-04-25 16:45:08,506 WARNING send_txs: block 46377511 tx 0 -> {'code': -32000, 'message': 'gapped-nonce tx from delegated accounts'}
+2026-04-25 16:45:08,520 WARNING send_txs: block 46377511 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 217241, tx nonce 217239'}
+2026-04-25 16:45:08,534 WARNING send_txs: block 46377511 tx 2 -> {'code': -32000, 'message': 'nonce too low: next nonce 304262, tx nonce 304260'}
+2026-04-25 16:45:08,549 WARNING send_txs: block 46377512 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 98261, tx nonce 98259'}
+2026-04-25 16:45:08,579 WARNING send_txs: block 46377516 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 207155, tx nonce 207153'}
+2026-04-25 16:45:08,650 WARNING send_txs: block 46377517 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 72594, tx nonce 72592'}
+2026-04-25 16:45:08,751 WARNING send_txs: block 46377522 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 615, tx nonce 613'}
+2026-04-25 16:45:08,765 WARNING send_txs: block 46377522 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 97601, tx nonce 97599'}
+2026-04-25 16:45:08,837 WARNING send_txs: block 46377522 tx 6 -> {'code': -32000, 'message': 'nonce too low: next nonce 229587, tx nonce 229585'}
+2026-04-25 16:45:08,865 WARNING send_txs: block 46377522 tx 8 -> {'code': -32000, 'message': 'nonce too low: next nonce 96961, tx nonce 96960'}
+2026-04-25 16:45:08,894 WARNING send_txs: block 46377523 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 214319, tx nonce 214318'}
+2026-04-25 16:45:08,966 WARNING send_txs: block 46377528 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 127669, tx nonce 127667'}
+2026-04-25 16:45:08,981 WARNING send_txs: block 46377528 tx 2 -> {'code': -32000, 'message': 'nonce too low: next nonce 102034, tx nonce 102033'}
+2026-04-25 16:45:08,995 WARNING send_txs: block 46377528 tx 3 -> {'code': -32000, 'message': 'nonce too low: next nonce 6668, tx nonce 6667'}
+2026-04-25 16:45:09,009 WARNING send_txs: block 46377528 tx 4 -> {'code': -32000, 'message': 'nonce too low: next nonce 11082, tx nonce 11081'}
+2026-04-25 16:45:09,052 WARNING send_txs: block 46377529 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 127669, tx nonce 127668'}
+2026-04-25 16:45:09,109 WARNING send_txs: block 46377529 tx 4 -> {'code': -32000, 'message': 'nonce too low: next nonce 492585, tx nonce 492583'}
+2026-04-25 16:45:09,124 WARNING send_txs: block 46377529 tx 5 -> {'code': -32000, 'message': 'nonce too low: next nonce 6738, tx nonce 6737'}
+2026-04-25 16:45:09,153 WARNING send_txs: block 46377530 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:09,168 WARNING send_txs: block 46377541 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 12816, tx nonce 12814'}
+2026-04-25 16:45:09,197 WARNING send_txs: block 46377542 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 241697, tx nonce 241695'}
+2026-04-25 16:45:09,211 WARNING send_txs: block 46377542 tx 2 -> {'code': -32000, 'message': 'nonce too low: next nonce 100226, tx nonce 100224'}
+2026-04-25 16:45:09,241 WARNING send_txs: block 46377547 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 74, tx nonce 73'}
+2026-04-25 16:45:09,256 WARNING send_txs: block 46377552 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 615, tx nonce 614'}
+2026-04-25 16:45:09,286 WARNING send_txs: block 46377570 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 1460, tx nonce 1459'}
+2026-04-25 16:45:09,301 WARNING send_txs: block 46377574 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 743, tx nonce 739'}
+2026-04-25 16:45:09,347 WARNING send_txs: block 46377603 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 11778, tx nonce 11777'}
+2026-04-25 16:45:09,362 WARNING send_txs: block 46377607 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 202033, tx nonce 202032'}
+2026-04-25 16:45:09,377 WARNING send_txs: block 46377607 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 215792, tx nonce 215791'}
+2026-04-25 16:45:09,392 WARNING send_txs: block 46377613 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 227, tx nonce 226'}
+2026-04-25 16:45:09,406 WARNING send_txs: block 46377614 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:09,436 WARNING send_txs: block 46377624 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 14244, tx nonce 14243'}
+2026-04-25 16:45:09,451 WARNING send_txs: block 46377624 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 6, tx nonce 5'}
+2026-04-25 16:45:09,465 WARNING send_txs: block 46377626 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 172, tx nonce 168'}
+2026-04-25 16:45:09,481 WARNING send_txs: block 46377637 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 172, tx nonce 169'}
+2026-04-25 16:45:09,495 WARNING send_txs: block 46377640 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 238925, tx nonce 238923'}
+2026-04-25 16:45:09,510 WARNING send_txs: block 46377644 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 235099, tx nonce 235098'}
+2026-04-25 16:45:09,525 WARNING send_txs: block 46377645 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 168, tx nonce 164'}
+2026-04-25 16:45:09,539 WARNING send_txs: block 46377645 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 215829, tx nonce 215827'}
+2026-04-25 16:45:09,554 WARNING send_txs: block 46377648 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 235630, tx nonce 235629'}
+2026-04-25 16:45:09,568 WARNING send_txs: block 46377648 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 99542, tx nonce 99541'}
+2026-04-25 16:45:09,583 WARNING send_txs: block 46377651 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 168, tx nonce 165'}
+2026-04-25 16:45:09,598 WARNING send_txs: block 46377656 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 166, tx nonce 163'}
+2026-04-25 16:45:09,613 WARNING send_txs: block 46377658 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 172, tx nonce 170'}
+2026-04-25 16:45:09,628 WARNING send_txs: block 46377660 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 206, tx nonce 201'}
+2026-04-25 16:45:09,642 WARNING send_txs: block 46377662 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 166, tx nonce 164'}
+2026-04-25 16:45:09,657 WARNING send_txs: block 46377666 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 172, tx nonce 168'}
+2026-04-25 16:45:09,672 WARNING send_txs: block 46377669 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 172, tx nonce 171'}
+2026-04-25 16:45:09,687 WARNING send_txs: block 46377670 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 8, tx nonce 6'}
+2026-04-25 16:45:09,701 WARNING send_txs: block 46377672 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 8, tx nonce 7'}
+2026-04-25 16:45:09,716 WARNING send_txs: block 46377676 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 172, tx nonce 169'}
+2026-04-25 16:45:09,731 WARNING send_txs: block 46377681 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 168, tx nonce 166'}
+2026-04-25 16:45:09,746 WARNING send_txs: block 46377687 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 168, tx nonce 167'}
+2026-04-25 16:45:09,761 WARNING send_txs: block 46377689 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 166, tx nonce 162'}
+2026-04-25 16:45:09,776 WARNING send_txs: block 46377695 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 166, tx nonce 163'}
+2026-04-25 16:45:09,790 WARNING send_txs: block 46377696 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 166, tx nonce 165'}
+2026-04-25 16:45:09,805 WARNING send_txs: block 46377703 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:09,820 WARNING send_txs: block 46377703 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 169, tx nonce 166'}
+2026-04-25 16:45:09,834 WARNING send_txs: block 46377703 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:09,849 WARNING send_txs: block 46377704 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:09,863 WARNING send_txs: block 46377704 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 172, tx nonce 170'}
+2026-04-25 16:45:09,878 WARNING send_txs: block 46377709 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 533, tx nonce 532'}
+2026-04-25 16:45:09,893 WARNING send_txs: block 46377710 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 223554, tx nonce 223553'}
+2026-04-25 16:45:09,921 WARNING send_txs: block 46377710 tx 2 -> {'code': -32000, 'message': 'nonce too low: next nonce 229909, tx nonce 229908'}
+2026-04-25 16:45:09,936 WARNING send_txs: block 46377712 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 172, tx nonce 169'}
+2026-04-25 16:45:09,951 WARNING send_txs: block 46377714 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 99326, tx nonce 99325'}
+2026-04-25 16:45:09,965 WARNING send_txs: block 46377714 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 172, tx nonce 171'}
+2026-04-25 16:45:09,980 WARNING send_txs: block 46377715 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 230891, tx nonce 230890'}
+2026-04-25 16:45:09,994 WARNING send_txs: block 46377715 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 98936, tx nonce 98935'}
+2026-04-25 16:45:10,008 WARNING send_txs: block 46377715 tx 2 -> {'code': -32000, 'message': 'nonce too low: next nonce 98823, tx nonce 98822'}
+2026-04-25 16:45:10,023 WARNING send_txs: block 46377718 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:10,038 WARNING send_txs: block 46377718 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:10,052 WARNING send_txs: block 46377718 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:10,067 WARNING send_txs: block 46377721 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:10,082 WARNING send_txs: block 46377722 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:10,096 WARNING send_txs: block 46377722 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:10,110 WARNING send_txs: block 46377722 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:10,125 WARNING send_txs: block 46377722 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:10,139 WARNING send_txs: block 46377722 tx 4 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:10,154 WARNING send_txs: block 46377722 tx 5 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:10,168 WARNING send_txs: block 46377722 tx 6 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:10,182 WARNING send_txs: block 46377722 tx 7 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:10,197 WARNING send_txs: block 46377724 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 160, tx nonce 157'}
+2026-04-25 16:45:10,212 WARNING send_txs: block 46377726 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 166, tx nonce 164'}
+2026-04-25 16:45:10,226 WARNING send_txs: block 46377729 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 166, tx nonce 165'}
+2026-04-25 16:45:10,241 WARNING send_txs: block 46377730 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 160, tx nonce 158'}
+2026-04-25 16:45:10,256 WARNING send_txs: block 46377737 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 169, tx nonce 167'}
+2026-04-25 16:45:10,285 WARNING send_txs: block 46377738 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:10,299 WARNING send_txs: block 46377738 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:10,314 WARNING send_txs: block 46377738 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:10,328 WARNING send_txs: block 46377739 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 20225, tx nonce 20224'}
+2026-04-25 16:45:10,343 WARNING send_txs: block 46377743 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 171, tx nonce 168'}
+2026-04-25 16:45:10,357 WARNING send_txs: block 46377743 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 169, tx nonce 168'}
+2026-04-25 16:45:10,373 WARNING send_txs: block 46377751 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 172, tx nonce 170'}
+2026-04-25 16:45:10,387 WARNING send_txs: block 46377753 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 171, tx nonce 169'}
+2026-04-25 16:45:10,402 WARNING send_txs: block 46377758 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 172, tx nonce 171'}
+2026-04-25 16:45:10,417 WARNING send_txs: block 46377766 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 160, tx nonce 159'}
+2026-04-25 16:45:10,432 WARNING send_txs: block 46377776 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 616, tx nonce 615'}
+2026-04-25 16:45:10,447 WARNING send_txs: block 46377778 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:10,461 WARNING send_txs: block 46377778 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 171, tx nonce 170'}
+2026-04-25 16:45:10,476 WARNING send_txs: block 46377781 tx 0 -> {'code': -32003, 'message': 'insufficient funds for gas * price + value: have 11749523113452 want 100183853224100'}
+2026-04-25 16:45:10,491 WARNING send_txs: block 46377782 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:10,505 WARNING send_txs: block 46377783 tx 0 -> {'code': -32003, 'message': 'insufficient funds for gas * price + value: have 172075250597237 want 10555772055000000'}
+2026-04-25 16:45:10,520 WARNING send_txs: block 46377783 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 11436, tx nonce 11435'}
+2026-04-25 16:45:10,534 WARNING send_txs: block 46377783 tx 2 -> {'code': -32000, 'message': 'nonce too low: next nonce 233512, tx nonce 233511'}
+2026-04-25 16:45:10,549 WARNING send_txs: block 46377783 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:10,563 WARNING send_txs: block 46377783 tx 4 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:10,577 WARNING send_txs: block 46377783 tx 5 -> {'code': -32000, 'message': 'nonce too low: next nonce 217241, tx nonce 217240'}
+2026-04-25 16:45:10,608 WARNING send_txs: block 46377809 tx 0 -> {'code': -32000, 'message': 'already known'}
+2026-04-25 16:45:10,623 WARNING send_txs: block 46377810 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 304262, tx nonce 304261'}
+2026-04-25 16:45:10,637 WARNING send_txs: block 46377811 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 98261, tx nonce 98260'}
+2026-04-25 16:45:10,652 WARNING send_txs: block 46377820 tx 0 -> {'code': -32000, 'message': 'already known'}
+2026-04-25 16:45:10,668 WARNING send_txs: block 46377837 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 98035, tx nonce 98034'}
+2026-04-25 16:45:10,696 WARNING send_txs: block 46377837 tx 2 -> {'code': -32000, 'message': 'nonce too low: next nonce 316221, tx nonce 316220'}
+2026-04-25 16:45:10,711 WARNING send_txs: block 46377838 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:10,727 WARNING send_txs: block 46377843 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:10,742 WARNING send_txs: block 46377849 tx 0 -> {'code': -32003, 'message': 'insufficient funds for gas * price + value: have 11749523113452 want 108174000309852'}
+2026-04-25 16:45:10,815 WARNING send_txs: block 46377868 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 769, tx nonce 768'}
+2026-04-25 16:45:10,830 WARNING send_txs: block 46377885 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 1365, tx nonce 1364'}
+2026-04-25 16:45:10,845 WARNING send_txs: block 46377887 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 3101, tx nonce 3099'}
+2026-04-25 16:45:10,860 WARNING send_txs: block 46377888 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 1316, tx nonce 1315'}
+2026-04-25 16:45:10,874 WARNING send_txs: block 46377888 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 742, tx nonce 741'}
+2026-04-25 16:45:10,889 WARNING send_txs: block 46377894 tx 0 -> {'code': -32000, 'message': 'already known'}
+2026-04-25 16:45:10,905 WARNING send_txs: block 46377908 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 206, tx nonce 202'}
+2026-04-25 16:45:10,934 WARNING send_txs: block 46377918 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 3101, tx nonce 3100'}
+2026-04-25 16:45:10,979 WARNING send_txs: block 46377935 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 12816, tx nonce 12815'}
+2026-04-25 16:45:11,009 WARNING send_txs: block 46377945 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 257188, tx nonce 257187'}
+2026-04-25 16:45:11,039 WARNING send_txs: block 46377958 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 743, tx nonce 740'}
+2026-04-25 16:45:11,055 WARNING send_txs: block 46377969 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:11,069 WARNING send_txs: block 46377971 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 743, tx nonce 741'}
+2026-04-25 16:45:11,114 WARNING send_txs: block 46377985 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:11,128 WARNING send_txs: block 46377985 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:11,143 WARNING send_txs: block 46377985 tx 2 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:11,157 WARNING send_txs: block 46377985 tx 3 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:11,172 WARNING send_txs: block 46377991 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 212, tx nonce 211'}
+2026-04-25 16:45:11,187 WARNING send_txs: block 46377993 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 743, tx nonce 742'}
+2026-04-25 16:45:11,202 WARNING send_txs: block 46377996 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 206, tx nonce 203'}
+2026-04-25 16:45:11,232 WARNING send_txs: block 46378006 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 8, tx nonce 7'}
+2026-04-25 16:45:11,264 WARNING send_txs: block 46378054 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 1716, tx nonce 1714'}
+2026-04-25 16:45:11,294 WARNING send_txs: block 46378066 tx 0 -> {'code': -32003, 'message': 'insufficient funds for gas * price + value: have 168241988996806 want 9468692055000000'}
+2026-04-25 16:45:11,309 WARNING send_txs: block 46378070 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:11,329 WARNING send_txs: block 46378071 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 1716, tx nonce 1715'}
+2026-04-25 16:45:11,347 WARNING send_txs: block 46378078 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 113, tx nonce 111'}
+2026-04-25 16:45:11,362 WARNING send_txs: block 46378080 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 113, tx nonce 112'}
+2026-04-25 16:45:11,392 WARNING send_txs: block 46378086 tx 0 -> {'code': -32003, 'message': 'insufficient funds for gas * price + value: have 242071833519801 want 10679772055000000'}
+2026-04-25 16:45:11,408 WARNING send_txs: block 46378093 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 997, tx nonce 996'}
+2026-04-25 16:45:11,437 WARNING send_txs: block 46378094 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:11,453 WARNING send_txs: block 46378108 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 30278, tx nonce 30277'}
+2026-04-25 16:45:11,469 WARNING send_txs: block 46378112 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:11,483 WARNING send_txs: block 46378112 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:11,513 WARNING send_txs: block 46378123 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 21466, tx nonce 21465'}
+2026-04-25 16:45:11,528 WARNING send_txs: block 46378125 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 44812, tx nonce 44811'}
+2026-04-25 16:45:11,544 WARNING send_txs: block 46378139 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:11,559 WARNING send_txs: block 46378140 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:11,573 WARNING send_txs: block 46378140 tx 1 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:11,588 WARNING send_txs: block 46378140 tx 2 -> {'code': -32000, 'message': 'nonce too low: next nonce 209856, tx nonce 209855'}
+2026-04-25 16:45:11,602 WARNING send_txs: block 46378140 tx 3 -> {'code': -32000, 'message': 'nonce too low: next nonce 207155, tx nonce 207154'}
+2026-04-25 16:45:11,630 WARNING send_txs: block 46378140 tx 5 -> {'code': -32000, 'message': 'nonce too low: next nonce 97601, tx nonce 97600'}
+2026-04-25 16:45:11,660 WARNING send_txs: block 46378141 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 208906, tx nonce 208905'}
+2026-04-25 16:45:11,674 WARNING send_txs: block 46378141 tx 2 -> {'code': -32000, 'message': 'nonce too low: next nonce 229587, tx nonce 229586'}
+2026-04-25 16:45:11,688 WARNING send_txs: block 46378141 tx 3 -> {'code': -32000, 'message': 'nonce too low: next nonce 72594, tx nonce 72593'}
+2026-04-25 16:45:11,703 WARNING send_txs: block 46378141 tx 4 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:11,717 WARNING send_txs: block 46378141 tx 5 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:11,731 WARNING send_txs: block 46378141 tx 6 -> {'code': -32000, 'message': 'nonce too low: next nonce 6676, tx nonce 6675'}
+2026-04-25 16:45:11,760 WARNING send_txs: block 46378141 tx 8 -> {'code': -32000, 'message': 'nonce too low: next nonce 492585, tx nonce 492584'}
+2026-04-25 16:45:11,775 WARNING send_txs: block 46378141 tx 9 -> {'code': -32000, 'message': 'nonce too low: next nonce 22816, tx nonce 22815'}
+2026-04-25 16:45:11,804 WARNING send_txs: block 46378143 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 11235, tx nonce 11234'}
+2026-04-25 16:45:11,820 WARNING send_txs: block 46378152 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 75600, tx nonce 75599'}
+2026-04-25 16:45:11,835 WARNING send_txs: block 46378153 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 690, tx nonce 689'}
+2026-04-25 16:45:11,850 WARNING send_txs: block 46378159 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 12756, tx nonce 12755'}
+2026-04-25 16:45:11,864 WARNING send_txs: block 46378159 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 249899, tx nonce 249898'}
+2026-04-25 16:45:11,880 WARNING send_txs: block 46378176 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 206, tx nonce 204'}
+2026-04-25 16:45:11,926 WARNING send_txs: block 46378195 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 100398, tx nonce 100397'}
+2026-04-25 16:45:11,940 WARNING send_txs: block 46378195 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 241697, tx nonce 241696'}
+2026-04-25 16:45:11,955 WARNING send_txs: block 46378197 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 100226, tx nonce 100225'}
+2026-04-25 16:45:11,998 WARNING send_txs: block 46378200 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 238925, tx nonce 238924'}
+2026-04-25 16:45:12,013 WARNING send_txs: block 46378203 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 215829, tx nonce 215828'}
+2026-04-25 16:45:12,029 WARNING send_txs: block 46378220 tx 0 -> {'code': -32003, 'message': 'txpool is full'}
+2026-04-25 16:45:12,045 WARNING send_txs: block 46378229 tx 0 -> {'code': -32003, 'message': 'insufficient funds for gas * price + value: have 509426439814935 want 19770972055000000'}
+2026-04-25 16:45:12,103 WARNING send_txs: block 46378233 tx 1 -> {'code': -32000, 'message': 'nonce too low: next nonce 26600, tx nonce 26599'}
+2026-04-25 16:45:12,133 WARNING send_txs: block 46378244 tx 0 -> {'code': -32003, 'message': 'insufficient funds for gas * price + value: have 511166663584150 want 9380692055000000'}
+2026-04-25 16:45:12,148 WARNING send_txs: block 46378252 tx 0 -> {'code': -32003, 'message': 'insufficient funds for gas * price + value: have 506911830293280 want 9791101941500000'}
+2026-04-25 16:45:12,179 WARNING send_txs: block 46378264 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 206, tx nonce 205'}
+2026-04-25 16:45:12,193 WARNING send_txs: block 46378265 tx 0 -> {'code': -32000, 'message': 'nonce too low: next nonce 23, tx nonce 22'}
