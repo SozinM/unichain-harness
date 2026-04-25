@@ -14,6 +14,7 @@ replay/
 │   └── driver.py        # build → seal → insert → canonicalize loop
 ├── run_mock_cl.py       # `python3 run_mock_cl.py [max_blocks]`
 ├── extract.py           # raw tx extractor for blocks 46_000_001..
+├── send_txs.py          # replays extracted txs via eth_sendRawTransaction
 └── data/                # gitignored — raw_txs/<n>.txt etc.
 ```
 
@@ -49,6 +50,23 @@ For the default range 46_000_001..46_001_000: 8702 source txs → 841 survivors
 (595 blocks were fully filtered).
 
 Env knobs: `EXTRACT_RPC_URL`, `EXTRACT_WORKERS`, `EXTRACT_BATCH`.
+
+## Tx sender
+
+```
+python3 send_txs.py [start] [end]    # defaults: 46000001 46001000
+```
+
+Reads `data/raw_txs/<n>.txt` for each block and submits each line as its
+own `eth_sendRawTransaction` call to `SEND_ENDPOINT` (default
+`http://127.0.0.1:9545`). Strictly sequential — no batching, no concurrency
+— so order is preserved within and across blocks. Optional pacing via
+`INTER_TX_MS` and `INTER_BLOCK_MS`.
+
+Errors are bucketed (`already known`, `nonce too low`, `replacement
+transaction underpriced`, etc.) and counted. Set `STOP_ON_ERROR=1` to abort
+on the first failure, or `SHOW_HASH=1` to log the returned tx hash on each
+success.
 
 ## Reference
 
