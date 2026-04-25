@@ -3,6 +3,8 @@
 import os
 from dataclasses import dataclass
 
+from .deposits import L1Origin
+
 
 @dataclass(frozen=True)
 class Config:
@@ -17,12 +19,34 @@ class Config:
     safe_distance: int       # how many blocks behind head to mark "safe"
     finalized_distance: int  # ditto for "finalized"
     raw_txs_dir: str         # data/raw_txs/<n>.txt — one hex tx per line, no 0x prefix
+    l1_origin: L1Origin      # frozen L1 view used to fabricate L1Info deposits
 
 
 # Unichain mainnet, Holocene-active. eip1559 params from superchain-registry
 # (mainnet/unichain.toml: denominator_canyon=250, elasticity=6).
 # Encoded as 8 bytes: 4-byte denominator (BE) + 4-byte elasticity (BE).
 DEFAULT_EIP1559_PARAMS = "0x000000fa00000006"
+
+
+# Default L1 origin — taken verbatim from unichain block 46_000_001's actual
+# L1Info deposit (byte-exact round-trip confirmed). Freezing this means every
+# L2 block we produce reports the same L1 origin; only seqNumber advances.
+# That stays valid in the EL (it's just calldata to the L1Block predeploy);
+# the only protocol limit is `max_sequencer_drift = 600s` from the rollup
+# config — not enforced by op-reth, so a frozen origin is fine for testing.
+DEFAULT_L1_ORIGIN = L1Origin(
+    block_hash=bytes.fromhex("49679394abf64c726722a341f502507a6e76603d8f7a1495eae10b4be671bd19"),
+    block_number=24_926_115,
+    timestamp=1_776_748_295,
+    basefee=234_862_012,
+    blob_basefee=14_237_510,
+    batcher_address=bytes.fromhex("2f60a5184c63ca94f82a27100643dbabe4f3f7fd"),
+    base_fee_scalar=2_000,
+    blob_base_fee_scalar=900_000,
+    operator_fee_scalar=0,
+    operator_fee_const=0,
+    da_footprint_gas_scalar=400,
+)
 
 
 def from_env() -> Config:
@@ -43,4 +67,5 @@ def from_env() -> Config:
             "RAW_TXS_DIR",
             os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "raw_txs"),
         ),
+        l1_origin=DEFAULT_L1_ORIGIN,
     )

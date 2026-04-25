@@ -21,6 +21,7 @@ import time
 
 from .attrs import build_attrs
 from .config import Config, from_env
+from .deposits import build_l1_info_deposit_tx
 from .engine import (
     EngineRpc,
     HttpRpc,
@@ -49,7 +50,7 @@ def lower_distance(rpc: HttpRpc, head_n: int, distance: int) -> dict:
     return blk
 
 
-def step(eng: EngineRpc, rpc: HttpRpc, cfg: Config, *, version: int = 4) -> dict:
+def step(eng: EngineRpc, rpc: HttpRpc, cfg: Config, *, version: int = 4, seq_num: int = 0) -> dict:
     """Run one build-seal-insert-canonicalize cycle. Returns the new head block."""
     head = get_block_by_number(rpc, "latest")
     assert head is not None, "head not found"
@@ -60,13 +61,17 @@ def step(eng: EngineRpc, rpc: HttpRpc, cfg: Config, *, version: int = 4) -> dict
     safe = lower_distance(rpc, head_n, cfg.safe_distance)
     finalized = lower_distance(rpc, head_n, cfg.finalized_distance)
 
+    # OP-stack rule: every block starts with the L1Info deposit. Fabricate
+    # one against our frozen L1 origin; only seqNumber advances per L2 block.
+    deposit_tx = build_l1_info_deposit_tx(cfg.l1_origin, seq_num=seq_num)
+
     attrs = build_attrs(
         parent_timestamp=parent_ts,
         block_time=cfg.block_time,
         fee_recipient=cfg.fee_recipient,
         gas_limit=cfg.gas_limit,
         eip1559_params=cfg.eip1559_params,
-        transactions=None,  # let EL pick from pool — replace later with extracted txs
+        transactions=[deposit_tx],   # deposit prefix; EL appends user-pool txs
         no_tx_pool=False,
     )
 
@@ -130,10 +135,12 @@ def run(cfg: Config | None = None, *, max_blocks: int | None = None, version: in
         log.warning("RPC chain id %d != configured %d", cid, cfg.chain_id)
 
     n = 0
+    seq_num = int(os.environ.get("SEQ_NUM_START", "0"))
     while True:
         t0 = time.time()
         try:
-            step(eng, rpc, cfg, version=version)
+            step(eng, rpc, cfg, version=version, seq_num=seq_num)
+            seq_num += 1
         except Exception as exc:
             log.error("step failed: %s", exc, exc_info=True)
         n += 1

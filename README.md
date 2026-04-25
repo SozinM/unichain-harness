@@ -11,6 +11,10 @@ replay/
 │   ├── config.py        # env-driven config (urls, JWT path, block time, ...)
 │   ├── engine.py        # JWT-authed engine_* RPC + plain eth_* RPC clients
 │   ├── attrs.py         # OP PayloadAttributes builder (Holocene-aware)
+│   ├── deposits.py      # synthetic L1Info deposit tx (selector 0x3db6be2b,
+│   │                    # 178-byte calldata; verified byte-exact against
+│   │                    # block 46_000_001's actual L1Info deposit)
+│   ├── _keccak.py       # pure-Python keccak256 (system Python lacks pycryptodome)
 │   └── driver.py        # build → seal → insert → canonicalize loop
 ├── run_mock_cl.py       # `python3 run_mock_cl.py [max_blocks]`
 ├── extract.py           # raw tx extractor for blocks 46_000_001..
@@ -29,9 +33,15 @@ Every `BLOCK_TIME` seconds (default 2):
 5. `engine_newPayloadV4(payload, [], parentBeaconBlockRoot, [])`
 6. `engine_forkchoiceUpdatedV3(newHead, safe, finalized, null)` → canonicalize
 
-Status: scaffolding. `transactions` is currently `None` and `noTxPool=False`,
-i.e. the EL fills payloads from its own pool. The replay path will switch to
-`noTxPool=True` + `transactions=[raw RLP, ...]` (loaded from `data/raw_txs/<n>.txt`).
+Each tick fabricates an L1Info deposit tx (frozen L1 origin, advancing
+`seqNumber`) and prepends it to `payloadAttributes.transactions`. With
+`noTxPool=False`, the EL appends user-pool txs after — so the replay flow
+is: `send_txs.py` fills the pool, the deposit prefix updates the L1Block
+predeploy, and the EL builds the rest from pool.
+
+Verified: `build_l1_info_deposit_tx` reproduces unichain block 46_000_001's
+on-chain deposit byte-exact (266 bytes), and the source-hash math agrees
+with `cast keccak`.
 
 ## Tx extractor
 
